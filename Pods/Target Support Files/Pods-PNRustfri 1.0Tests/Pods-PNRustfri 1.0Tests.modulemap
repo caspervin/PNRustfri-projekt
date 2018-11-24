@@ -1,0 +1,6 @@
+framework module Pods_PNRustfri_1_0Tests {
+  umbrella header "Pods-PNRustfri 1.0Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
