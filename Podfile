@@ -10,10 +10,7 @@ target 'PNRustfri 1.0' do
     pod 'Firebase/Core'
     pod 'Firebase/Auth'
 
-  target 'PNRustfri 1.0' do
-	pod 'JTAppleCalendar', '~> 7.0'
-	end	
-
+ 
   target 'PNRustfri 1.0Tests' do
     inherit! :search_paths
     # Pods for testing
