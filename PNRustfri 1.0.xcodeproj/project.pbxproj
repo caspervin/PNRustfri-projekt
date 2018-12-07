@@ -20,6 +20,7 @@
 		A7B4895A21A1C12900FA76CC /* ViewControllerLog1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B4895921A1C12900FA76CC /* ViewControllerLog1.swift */; };
 		A7B4895E21A1C29D00FA76CC /* ViewControllerSide2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B4895D21A1C29C00FA76CC /* ViewControllerSide2.swift */; };
 		A7B4896421B1A11A00FA76CC /* LoginTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B4896321B1A11A00FA76CC /* LoginTextField.swift */; };
+		A7B4896A21B80EE100FA76CC /* ViewControllerArbejdsopgave.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B4896921B80EE100FA76CC /* ViewControllerArbejdsopgave.swift */; };
 		DA7EDC505A527C7C8824811C /* Pods_PNRustfri_1_0UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1160626AF6C2A7B287563BFA /* Pods_PNRustfri_1_0UITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -66,6 +67,7 @@
 		A7B4895921A1C12900FA76CC /* ViewControllerLog1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerLog1.swift; sourceTree = "<group>"; };
 		A7B4895D21A1C29C00FA76CC /* ViewControllerSide2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerSide2.swift; sourceTree = "<group>"; };
 		A7B4896321B1A11A00FA76CC /* LoginTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTextField.swift; sourceTree = "<group>"; };
+		A7B4896921B80EE100FA76CC /* ViewControllerArbejdsopgave.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerArbejdsopgave.swift; sourceTree = "<group>"; };
 		D03FBDCE102328331499055E /* Pods-PNRustfri 1.0UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PNRustfri 1.0UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PNRustfri 1.0UITests/Pods-PNRustfri 1.0UITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -145,6 +147,7 @@
 				A7B4895D21A1C29C00FA76CC /* ViewControllerSide2.swift */,
 				A770A8CD219F12A2009EEA10 /* Info.plist */,
 				A7B4895921A1C12900FA76CC /* ViewControllerLog1.swift */,
+				A7B4896921B80EE100FA76CC /* ViewControllerArbejdsopgave.swift */,
 			);
 			path = "PNRustfri 1.0";
 			sourceTree = "<group>";
@@ -410,6 +413,7 @@
 			files = (
 				A770A8C4219F12A1009EEA10 /* ViewController.swift in Sources */,
 				A7B4895A21A1C12900FA76CC /* ViewControllerLog1.swift in Sources */,
+				A7B4896A21B80EE100FA76CC /* ViewControllerArbejdsopgave.swift in Sources */,
 				A7B4895E21A1C29D00FA76CC /* ViewControllerSide2.swift in Sources */,
 				A7B4896421B1A11A00FA76CC /* LoginTextField.swift in Sources */,
 				A770A8C2219F12A1009EEA10 /* AppDelegate.swift in Sources */,
